@@ -70,4 +70,6 @@ dependencies {
     // To implement navigation's in compose
     implementation("androidx.navigation:navigation-compose:2.7.3")
 
+    // Required -- JUnit 4 framework
+    testImplementation("junit:junit:4.13.2")
 }
